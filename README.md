@@ -42,3 +42,10 @@
 *  `pip install -r requlirements.txt`
 *  后台帐号:admin . 密码：admin
 
+python manage.py runserver
+
+http://127.0.0.1:8000/yimi-admin/login/?next=/yimi-admin/
+
+
+http://127.0.0.1:8000/admin/
+
